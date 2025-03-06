@@ -22,5 +22,5 @@ I am a fifth-year PhD student in the [Department of Electrical and Computer Engi
 
 Before starting my PhD, I was a researcher at the [IBS Center for Integrated Nanostructure Physics](https://cinap.ibs.re.kr/html/cinap_en/) in Suwon, South Korea. I worked on non-Hermitan metasurfaces and was advised by [Prof. Teun-Teun Kim](https://sites.google.com/site/teunteunkim/about).
 
-I received my undergraduate degree in [Physics](https://www.physics.ox.ac.uk) at the University of Oxford. My thesis was on temporal shaping and characterization of laser pulses for quantum memories and was advised by [Prof. Ian Walmsley](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/about-the-provost/) (now at Imperial College London) and [Dr. Benjamin Brecht](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/about-the-provost/) (now at Paderborn University). 
+I received my undergraduate degree in [Physics](https://www.physics.ox.ac.uk) at the University of Oxford. My thesis was on temporal shaping and characterization of laser pulses for quantum memories and was advised by [Prof. Ian Walmsley](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/about-the-provost/) (now at Imperial College London) and [Dr. Benjamin Brecht](https://www.uni-paderborn.de/en/person/27150) (now at Paderborn University). 
  
