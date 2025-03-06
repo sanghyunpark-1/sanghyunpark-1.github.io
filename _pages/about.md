@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Minnesota</a>. Minneapolis, Minnesota, USA
 
 profile:
   align: right
-  image: profile_pic2.jpeg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kenneth H. Keller Hall</p>
