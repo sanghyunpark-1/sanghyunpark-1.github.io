@@ -126,6 +126,10 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
+            <!-- cv -->
+            <li class="nav-item {% if page.title == 'cv' %}active{% endif %}">
+              <a class="nav-link" target="_blank" href="{{ '/assets/pdf/CV_SangHyun_250701.pdf' | relative_url }}">CV</a>
+            </li>
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">

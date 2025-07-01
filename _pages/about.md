@@ -1,17 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>The University of Texas at Austin</a>. Austin, Texas, USA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: >    
+    <p>2515 Speedway, PMA 13.312</p>
+    <p>Austin, TX 78712</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral fellow in the Department of Physics at [The University of Texas at Austin](https://physics.utexas.edu) supervised by [Prof. Junyeong Ahn](https://www.quahntum.com). I am currently interested in theoretically studying the optical properties of quantum materials.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my PhD in Electrical Engineering at the [University of Minnesota](https://cse.umn.edu/ece) supervised by [Prof. Tony Low](https://tonylow.umn.edu). I used theoretical and computational methods to study nanophotonics in two-dimensional materials with a focus on surface polaritons. I also worked closely with [Prof. Eugene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) (UPenn) on topological plasmonic crystals.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my PhD, I was a researcher at the [IBS Center for Integrated Nanostructure Physics](https://cinap.ibs.re.kr/html/cinap_en/) in Suwon, South Korea. I worked on non-Hermitan metasurfaces and was advised by [Prof. Teun-Teun Kim](https://sites.google.com/site/teunteunkim/about).
+
+I received my undergraduate degree in Physics at the [University of Oxford](https://www.physics.ox.ac.uk). My thesis was on temporal shaping and characterization of laser pulses for quantum memories and was advised by [Prof. Ian Walmsley](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/about-the-provost/) (now at Imperial College London) and [Dr. Benjamin Brecht](https://www.uni-paderborn.de/en/person/27150) (now at Paderborn University). 
