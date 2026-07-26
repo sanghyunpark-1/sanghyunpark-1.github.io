@@ -117,6 +117,10 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          <!-- Publications: link straight out to Google Scholar -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid | split: '&' | first }}&hl=en&view_op=list_works&sortby=pubdate">Publications</a>
+          </li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
